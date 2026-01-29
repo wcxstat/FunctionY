@@ -4,7 +4,8 @@
 
 This repository contains the **MATLAB code and datasets** used in the paper:
 
-**Two-Sample Functional Linear Models with Functional Responses**  
+>**Two-Sample Functional Linear Models with Functional Responses**
+
 **Authors:** Wenchao Xu, Hongmei Lin, Riquan Zhang, and Hua Liang  
 **Journal:** *Journal of Statistical Planning and Inference* (2022), 218: 85–105  
 **DOI:** 10.1016/j.jspi.2021.10.001

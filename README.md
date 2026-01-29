@@ -1,4 +1,4 @@
-# Two-Sample Functional Linear Models with Functional Responses
+# Two-Sample FLMs with Functional Responses
 
 ## Overview
 
